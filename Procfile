@@ -1,1 +1,1 @@
-web: npm run $COMM
+web: npm run $COMMA
